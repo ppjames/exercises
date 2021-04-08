@@ -1,0 +1,25 @@
+body {
+  background-color: purple;
+}
+
+
+.content {
+  /* width: 600px; */
+  /* height: 600px; */
+  background-color: gray;
+  margin-left: 20px;
+  /* justify-content: center; */
+  /* display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; */
+  /* display: grid; */
+}
+
+.box {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  text-align: center;
+  /* border-radius: 3px; */
+  /* margin: 0px 2px 0px 2px; */
+}
